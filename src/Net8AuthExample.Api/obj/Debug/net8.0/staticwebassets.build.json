@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "skwWJDZuWilC3jKWnNzh2L8GSwSSWBdNfXIScPmD1GQ=",
+  "Source": "Net8AuthExample.Api",
+  "BasePath": "_content/Net8AuthExample.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
